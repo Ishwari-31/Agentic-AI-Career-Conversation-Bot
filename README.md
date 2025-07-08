@@ -1,6 +1,6 @@
-#🤖 Agentic AI Chat Assistant (Gradio + Groq + Tool Use)
+# Agentic AI Chat Assistant (Gradio + Groq + Tool Use)
 
-This is an  **Agentic AI chatbot** — an AI agent that can autonomously take actions using predefined tools, guided by personalized context from your resume and professional summary. Designed for personal or professional websites, this assistant can answer career-related questions, collect user information, and log unknown queries—all with minimal human oversight.
+🤖 This is an  **Agentic AI chatbot** — an AI agent that can autonomously take actions using predefined tools, guided by personalized context from your resume and professional summary. Designed for personal or professional websites, this assistant can answer career-related questions, collect user information, and log unknown queries—all with minimal human oversight.
 
 ---
 
