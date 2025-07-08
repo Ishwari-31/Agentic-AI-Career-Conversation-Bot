@@ -1,0 +1,9 @@
+https://api.groq.com/openai/v1/llama-3.3-70b-versatile
+
+Create a folder named "me" and add your files -> "resume.pdf" and "summary.txt" in it before running the code
+
+Also you need to have Pushover app installed on your mobile to get the notifications and use its api keys in code
+
+pip install -r requirements.txt
+cntrl+c to stop
+python app.py 
